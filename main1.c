@@ -3,12 +3,8 @@
 #include "Storeitem.h"
 //#include<conio.h>
 
-
-
 char filename[] ="./storeitem.dat"; //binary file
 char filename1[] ="./tempitem.dat";
-
-
 
 int main()
 {
