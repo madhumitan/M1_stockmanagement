@@ -1,4 +1,4 @@
-#include "main.c"
+#include "main1.c"
 void WriteRecord()
 {
 		FILE *f;
